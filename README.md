@@ -1,1 +1,1 @@
-# Supermarket-Management-System-Using-Python
+# Supermarket-Management-System-Using-Python and MySql
